@@ -16,7 +16,7 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 * Exécutez la comande node server.cjs.
 * Ouvrez un terminal dans le dossier du projet `TChatClient`.
 * Exécutez la commande npm install socket.io-client pour installer les dépendances socket.io.
-* Exécutez la commande npm install @types/socket.io-client pour installer les fichier de declaration des dépendances socket.io-.
+* Exécutez la commande npm install @types/socket.io-client pour installer les fichier de declaration des dépendances socket.io-client.
 * Exécutez la commande ionic serve pour lancer l'application en mode développement.
 
 ## Fonctionnalités
