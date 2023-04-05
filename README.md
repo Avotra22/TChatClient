@@ -1,6 +1,6 @@
 # Projet de Chat avec Ionic React (TChatClient)
 
-Ce projet est une application de chat développée avec Ionic React. Elle permet aux utilisateurs de se connecter et de discuter en temps réel avec le service client.
+Ce projet est une application de chat développée avec Ionic React. Elle permet aux utilisateurs de discuter en temps réel avec le service client.
 
 ## Prérequis
 
@@ -16,6 +16,7 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 * Exécutez la comande node server.cjs.
 * Ouvrez un terminal dans le dossier du projet `TChatClient`.
 * Exécutez la commande npm install socket.io-client pour installer les dépendances socket.io.
+* Exécutez la commande npm install @types/socket.io-client pour installer les fichier de declaration des dépendances socket.io-.
 * Exécutez la commande ionic serve pour lancer l'application en mode développement.
 
 ## Fonctionnalités
