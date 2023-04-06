@@ -12,6 +12,7 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 ## Installation
 
 * Clonez le dépôt Git sur votre machine locale.
+* Clonez le projet service client sur `https://github.com/Avotra22/TChatServiceClient` (installation dans son README).
 * Ouvrez un terminal dans le dossier `TChatClient/server`.
 * Exécutez la comande node server.cjs.
 * Ouvrez un terminal dans le dossier du projet `TChatClient`.
@@ -28,4 +29,4 @@ Avant de pouvoir exécuter cette application, vous devez vous assurer que votre 
 
 * Ionic React : Framework pour le développement d'applications mobiles hybrides
 * Socket.io : Permet d'avoir des discussions et des notification en temps réel
-* TypeScript : Langage de programmation orienté objet
+* TypeScript : Langage de programmation orienté fonction
